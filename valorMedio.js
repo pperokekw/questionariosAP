@@ -40,10 +40,6 @@ console.log(`Questão 4: ${eBat.toFixed(3)}`)
 let pMedRes = pmed-(correnteMedia()*vbat)
 console.log(`Questão 5: ${pMedRes}`)
 
-
-
-
-
 const T2 = 8
 let wT = 2 * Math.PI * (1 / T2)
 let t1 = 2
